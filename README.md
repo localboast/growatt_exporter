@@ -32,7 +32,7 @@ make
 
 1. Install runtime dependencies:
 
-`apt install libconfig9 libmodbus5 libmosquitto1`
+`apt install libconfig11 libmodbus5 libmosquitto1`
 
 2. Copy binary:
 
